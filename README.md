@@ -5,7 +5,7 @@
 ## Olá pessoal 👋
 Meu nome é Leonardo, comecei a estudar programação no ensino médio graças ao curso técnico em Informática que estava fazendo e desde então não parei mais, nesse processo até a faculdade de Sistems de Infomação que estou cursando atualmente passei por linguagens como C, Python, Java, C++, PHP e atualmente meu foco é em estudar o ecossistema Javascript/Typescript e meu foco maior é em desenvolvimento back-end com NodeJS, porém sigo estudando também as tecnologias front-end como React.
 
- :rocket:  &nbsp; Estou trabalhando como estagiário na [**Mottu - Aluguel de Motos**.](https://mottu.com.br/)
+ :rocket:  &nbsp; Estou trabalhando como Dev.Backend Jr na [**Mottu - Aluguel de Motos**.](https://mottu.com.br/)
  <br/> :purple_heart: &nbsp; Buscando me aprimorar em desenvolvimento com NodeJS, Typescript e ReactJS.
  <br/> :book: &nbsp; Atualmente aprendendo mais sobre: Testes automatizados(TDD) e DDD.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e Valorant.
